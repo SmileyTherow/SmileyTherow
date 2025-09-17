@@ -5,23 +5,15 @@
 <h1 align="center">Hi, I'm Ahmad Zidan Tamimy</h1>
 
 # 💫 About Me:
-<br/>
-<br/>
-
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
-
 I am a Computer Engineering student from Indonesia.<br>I am currently focused on learning: 
 <br>- 💻 Programming (Java, PHP, Laravel, Web Development) 
 <br>- 🌐 Networking (Cisco Packet Tracer, Huawei eNSP) 
 <br>- 🖼️ A little design for projects.
 
-<br/>
-<br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/15b8okDkMf/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_smileytherow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadzidantamimy@gmail.com) 
 
 # 💻 Tech Stack:
@@ -42,9 +34,9 @@ I am a Computer Engineering student from Indonesia.<br>I am currently focused on
 [![](https://visitcount.itsvg.in/api?id=SmileyTherow&icon=10&color=10)](https://visitcount.itsvg.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrederiyPatria/FrederiyPatria/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrederiyPatria/FrederiyPatria/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FrederiyPatria/FrederiyPatria/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmileyTherow/SmileyTherow/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmileyTherow/SmileyTherow/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SmileyTherow/SmileyTherow/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
