@@ -5,13 +5,15 @@
 <h1 align="center">Hi, I'm Ahmad Zidan Tamimy</h1>
 
 # 💫 About Me:
-I am a Computer Engineering student from Indonesia.<br>I am currently focused on learning: 
+I am a Computer Engineering student from Indonesia. I am currently focused on learning: 
 <br>- 💻 Programming (Java, PHP, Laravel, Web Development) 
 <br>- 🌐 Networking (Cisco Packet Tracer, Huawei eNSP) 
 <br>- 🖼️ A little design for projects.
 
+<br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+<br>
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/15b8okDkMf/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_smileytherow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadzidantamimy@gmail.com) 
